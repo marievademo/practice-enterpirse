@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HRNFYOQM
 
 [Document2]
-DocumentPath=schematic.SchDoc
+DocumentPath=testfile.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -560,7 +560,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=powerbeveiliging.SchDoc
+DocumentPath=schematicPCB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
