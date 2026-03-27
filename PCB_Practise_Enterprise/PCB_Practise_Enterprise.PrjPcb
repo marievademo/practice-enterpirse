@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RBXNVKCU
 
 [Document5]
-DocumentPath=Batterijhouder2xAA.SchLib
+DocumentPath=BATTERIJ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HELFMKCF
 
 [Document15]
-DocumentPath=ATmega32u4.SchLib
+DocumentPath=BREIN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -490,6 +490,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZJVMZPEZ
+
+[Document27]
+DocumentPath=Batterijhouder2xAA.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LSSIWYKI
 
 [Configuration1]
 Name=Sources
