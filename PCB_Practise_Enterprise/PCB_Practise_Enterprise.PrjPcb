@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HRNFYOQM
 
 [Document2]
-DocumentPath=ATmega32u4.PcbLib
+DocumentPath=BREIN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,23 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WFPLLYCN
 
 [Document3]
-DocumentPath=XTAL_HC49SSDLF-8mHz.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MCBWKEAD
-
-[Document4]
 DocumentPath=BATTERIJ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GETAKLRV
 
-[Document5]
+[Document4]
 DocumentPath=PowerInductorSpoel1.5µH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSJGOURT
 
-[Document6]
+[Document5]
 DocumentPath=CONDENSATOREN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YQDYDHRJ
 
-[Document7]
+[Document6]
 DocumentPath=PPTCFuse.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,8 +151,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHOIPZMR
 
-[Document8]
-DocumentPath=Diodes.SchLib
+[Document7]
+DocumentPath=DIODES.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LEAHTFQV
 
-[Document9]
+[Document8]
 DocumentPath=Resistoren.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDIBFHZO
 
-[Document10]
+[Document9]
 DocumentPath=USBCConnector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,24 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBUUNNRY
 
-[Document11]
-DocumentPath=PowerInductorSpoel1.5µH.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HELFMKCF
-
-[Document12]
+[Document10]
 DocumentPath=BREIN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,8 +219,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFSFHCEA
 
-[Document13]
-DocumentPath=resettable fuse.PcbLib
+[Document11]
+DocumentPath=PPTCFuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -270,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DIOGCEFR
 
-[Document14]
+[Document12]
 DocumentPath=switchingvoltageregulator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGMIECPI
 
-[Document15]
+[Document13]
 DocumentPath=MOSFETS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MXFUSZKJ
 
-[Document16]
+[Document14]
 DocumentPath=PCB_Practise_Enterprise.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=chip.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CUZKIDEW
 
-[Document18]
+[Document16]
 DocumentPath=METEN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,65 +321,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIKJRTTX
 
-[Document19]
-DocumentPath=Button.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CXUBWLIE
-
-[Document20]
-DocumentPath=sensor.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FKEYRCIQ
-
-[Document21]
-DocumentPath=lcd16x02_3V3.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OKUGIQPS
-
-[Document22]
+[Document17]
 DocumentPath=randcomponenten.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -423,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZJVMZPEZ
 
-[Document23]
+[Document18]
 DocumentPath=USBCConnector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +355,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPPIQMFO
 
-[Document24]
+[Document19]
+DocumentPath=PowerInductorSpoel1.5µH.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HELFMKCF
+
+[Document20]
 DocumentPath=MOSFETS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWSIQFRI
 
-[Document25]
+[Document21]
 DocumentPath=BATTERIJ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BREGYYAJ
 
-[Document26]
+[Document22]
 DocumentPath=METEN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -490,6 +422,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SVKTGXCA
+
+[Document23]
+DocumentPath=PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FJXOFETC
 
 [Configuration1]
 Name=Sources
@@ -1460,124 +1409,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=ATmega32u4.SchLib
-ComponentDesignItemID0=ATmega32u4
-ComponentSymbolReference0=ATmega32u4
+ComponentLibraryIdentifier0=MOSFETS.SchLib
+ComponentDesignItemID0=FDN304P
+ComponentSymbolReference0=FDN304P
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Batterijhouder2xAA.SchLib
-ComponentDesignItemID1=Batterijhouder
-ComponentSymbolReference1=Batterijhouder
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=BuckBoostInductorTPS63051RMWR.SchLib
-ComponentDesignItemID2=SwitchingVoltageRegulator
-ComponentSymbolReference2=SwitchingVoltageRegulator
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Button.SchLib
-ComponentDesignItemID3=Button
-ComponentSymbolReference3=Button
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Condensatoren.SchLib
-ComponentDesignItemID4=Condensator 10µF
-ComponentSymbolReference4=Condensator 10µF
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=Condensatoren.SchLib
-ComponentDesignItemID5=Condensator0.1µF
-ComponentSymbolReference5=Condensator0.1µF
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Condensatoren.SchLib
-ComponentDesignItemID6=Condensator1µF
-ComponentSymbolReference6=Condensator1µF
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Condensatoren.SchLib
-ComponentDesignItemID7=Condensator12pF
-ComponentSymbolReference7=Condensator12pF
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=laser.SchLib
-ComponentDesignItemID8=Laser
-ComponentSymbolReference8=Laser
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=lcd16x02_3V3.SchLib
-ComponentDesignItemID9=LCD
-ComponentSymbolReference9=LCD
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=mosfets.SchLib
-ComponentDesignItemID10=n-mosfet
-ComponentSymbolReference10=n-mosfet
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=mosfets.SchLib
-ComponentDesignItemID11=p-mosfet
-ComponentSymbolReference11=p-mosfet
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=PPTCFuse.SchLib
-ComponentDesignItemID12=Fuse
-ComponentSymbolReference12=Fuse
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=Resistoren.SchLib
-ComponentDesignItemID13=Resistor100kOhm
-ComponentSymbolReference13=Resistor100kOhm
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=Resistoren.SchLib
-ComponentDesignItemID14=Resistor10kOhm
-ComponentSymbolReference14=Resistor10kOhm
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=Resistoren.SchLib
-ComponentDesignItemID15=Resistor22Ohm
-ComponentSymbolReference15=Resistor22Ohm
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=sensor.SchLib
-ComponentDesignItemID16=Sensor
-ComponentSymbolReference16=Sensor
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=USBCConnector.SchLib
-ComponentDesignItemID17=USBConnector
-ComponentSymbolReference17=USBConnector
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=XTAL_HC49SSDLF-8mHz..SchLib
-ComponentDesignItemID18=XTAL
-ComponentSymbolReference18=XTAL
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1602,35 +1443,8 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=CAPC0603X035M
+ModelName0=FDN304P
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=CAPC1210X14M
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=CAPC1210X70M
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=CAPC13550X20N
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=CAPC1812X18M
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=R0805X045M
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=R1210X06M
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=RESC4632X15M
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=SON50P300X100_HS-11M
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=TQFP80P1200X1200X100_HS-45N
-ModelUpdate9=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

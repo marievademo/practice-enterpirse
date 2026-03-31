@@ -1,0 +1,82 @@
+Add component: Footprint Not Found TQFP80P1200X1200X100_HS-45N
+Add component: Footprint Not Found SON50P300X100_HS-11M
+Add component: Footprint Not Found CAPC13550X20N
+Add Pin To Net: Unknown Pin: Pin B1-1
+Add Pin To Net: Unknown Pin: Pin B1-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1 (A
+Add Pin To Net: Unknown Pin: Pin D2-2 (C
+Add Pin To Net: Unknown Pin: Pin DS1-4
+Add Pin To Net: Unknown Pin: Pin DS1-5
+Add Pin To Net: Unknown Pin: Pin DS1-6
+Add Pin To Net: Unknown Pin: Pin DS1-7
+Add Pin To Net: Unknown Pin: Pin J1-A1
+Add Pin To Net: Unknown Pin: Pin J1-A4
+Add Pin To Net: Unknown Pin: Pin J1-A9
+Add Pin To Net: Unknown Pin: Pin J1-A12
+Add Pin To Net: Unknown Pin: Pin J1-B1
+Add Pin To Net: Unknown Pin: Pin J1-B4
+Add Pin To Net: Unknown Pin: Pin J1-B9
+Add Pin To Net: Unknown Pin: Pin J1-B12
+Add Pin To Net: Unknown Pin: Pin Q1-D3
+Add Pin To Net: Unknown Pin: Pin Q1-G1
+Add Pin To Net: Unknown Pin: Pin Q1-S2
+Add Pin To Net: Unknown Pin: Pin Q2-G1
+Add Pin To Net: Unknown Pin: Pin Q2-S3
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW2-2
+Add Pin To Net: Unknown Pin: Pin SW2-3
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-18
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Pin To Net: Unknown Pin: Pin U1-23
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U1-25
+Add Pin To Net: Unknown Pin: Pin U1-33
+Add Pin To Net: Unknown Pin: Pin U1-34
+Add Pin To Net: Unknown Pin: Pin U1-35
+Add Pin To Net: Unknown Pin: Pin U1-42
+Add Pin To Net: Unknown Pin: Pin U1-43
+Add Pin To Net: Unknown Pin: Pin U1-44
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Class Member: Failed to add class member : Component B1 Batterijhouder
+Add Class Member: Failed to add class member : Component D1 Laser
+Add Class Member: Failed to add class member : Component DS1 LCD
+Add Class Member: Failed to add class member : Component Q1 p-mosfet
+Add Class Member: Failed to add class member : Component Q2 n-mosfet
+Add Class Member: Failed to add class member : Component R3 Resistor100kOhm
+Add Class Member: Failed to add class member : Component SW1 Button
+Add Class Member: Failed to add class member : Component SW2 Button
+Add Class Member: Failed to add class member : Component U1 ATmega32u4
+Add Class Member: Failed to add class member : Component U1 SwitchingVoltageRegulator
+Add Class Member: Failed to add class member : Component U2 Sensor
+Add Class Member: Failed to add class member : Component X1 XTAL
