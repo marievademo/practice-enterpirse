@@ -1,0 +1,15 @@
+Replace Part B1 2xAA in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with 2xAA from BATTERIJ.SchLib
+Replace Part D1 DFLS120LQ-7 in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with DFLS120LQ-7 from DIODES.SchLib
+Replace Part DS1 LCD in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with LCD from METEN.SchLib
+Replace Part F1 MINIASMDC075F/33-2 in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with MINIASMDC075F/33-2 from PPTCFuse.SchLib
+Replace Part J1 USBConnector in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with USBConnector from USBCConnector.SchLib
+Update Managed Component J2 From CMP-25680-000021-1[NRPN031PAEN-RC] To CMP-25680-000021-1[NRPN031PAEN-RC] in randcomponenten.SchDoc
+Replace Part LD1 Laser in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Laser from METEN.SchLib
+Replace Part Q1 FDN304P in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with FDN304P from MOSFETS.SchLib
+Replace Part Q2 DMN2056U7 in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with DMN2056U7 from MOSFETS.SchLib
+Replace Part SW1 Button in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Button from METEN.SchLib
+Replace Part SW2 Button in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Button from METEN.SchLib
+Replace Part SW3 Button in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Button from METEN.SchLib
+Replace Part SW4 Button in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Button from METEN.SchLib
+Replace Part U2 Sensor in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Sensor from METEN.SchLib
+Replace Part U3 MCP1256T in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with MCP1256T from BATTERIJ.SchLib
