@@ -1,0 +1,12 @@
+Replace Part D2 SchottkyDiode in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with SchottkyDiode from DIODES.SchLib
+Replace Part DS1 LCD in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with LCD from METEN.SchLib
+Replace Part F1 Fuse in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Fuse from PPTCFuse.SchLib
+Replace Part J1 USBConnector in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with USBConnector from USBCConnector.SchLib
+Update Managed Component J2 From CMP-25680-000021-1[NRPN031PAEN-RC] To CMP-25680-000021-1[NRPN031PAEN-RC] in randcomponenten.SchDoc
+Replace Part Q1 FDN304P in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with FDN304P from MOSFETS.SchLib
+Replace Part Q2 DMN2056U7 in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with DMN2056U7 from MOSFETS.SchLib
+Replace Part SW1 Button in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Button from METEN.SchLib
+Replace Part SW2 Button in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Button from METEN.SchLib
+Replace Part SW3 Button in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Button from METEN.SchLib
+Replace Part SW4 Button in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Button from METEN.SchLib
+Replace Part U2 Sensor in C:\Users\marie\OneDrive\Documents\GitHub\practice-enterpirse\PCB_Practise_Enterprise\randcomponenten.SchDoc with Sensor from METEN.SchLib

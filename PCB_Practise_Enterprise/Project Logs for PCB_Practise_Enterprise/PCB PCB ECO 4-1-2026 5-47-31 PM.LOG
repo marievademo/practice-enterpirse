@@ -1,0 +1,8 @@
+Change Component Comment : Designator=C1 Old Comment=Condensator0.1µF New Comment=0.1µF
+Change Component Comment : Designator=C4 Old Comment=Condensator0.1µF New Comment=0.1µF
+Change Component Comment : Designator=C5 Old Comment=Condensator0.1µF New Comment=0.1µF
+Change Component Comment : Designator=C6 Old Comment=Condensator0.1µF New Comment=0.1µF
+Change Component Comment : Designator=C2 Old Comment=Condensator12pF New Comment=12pF
+Change Component Comment : Designator=C3 Old Comment=Condensator12pF New Comment=12pF
+Change Component Designator: OldDesignator=R2 NewDesignator=R12
+Added Member To Class: ClassName=randcomponenten Member=Component R12 10kOhm
