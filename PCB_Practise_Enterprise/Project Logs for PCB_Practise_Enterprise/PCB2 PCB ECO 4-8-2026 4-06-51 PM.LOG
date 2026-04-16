@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=PINH_Vout Pin=R13-2
+Added Pin To Net: NetName=PINH_Vout Pin=R14-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SW1-4
+Added Pin To Net: NetName=NetR1_1 Pin=U1-33
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=SW4-4
+Added Pin To Net: NetName=NetR13_1 Pin=U1-1
+Added Net: Name=NetR13_1
+Added Member To Class: ClassName=chip Member=Component C2 CAP_18pF

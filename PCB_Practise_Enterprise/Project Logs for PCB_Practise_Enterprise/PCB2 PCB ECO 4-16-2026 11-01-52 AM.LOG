@@ -1,0 +1,5 @@
+Added Component: Designator=Q2(DMN2056U-7)
+Added Pin To Net: NetName=NetQ2_D2 Pin=Q2-D2
+Added Pin To Net: NetName=NetQ2_G1 Pin=Q2-G1
+Added Pin To Net: NetName=GND Pin=Q2-S3
+Added Member To Class: ClassName=randcomponenten Member=Component Q2 DMN2056U7

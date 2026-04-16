@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetJ1_A6 New Net Name=D_P
+Change Net Name : Old Net Name=NetJ1_A7 New Net Name=D_N
+Change Net Name : Old Net Name=NetR8_1 New Net Name=D_N
+Change Net Name : Old Net Name=NetR10_2 New Net Name=D_P
+Added Differential Pair: Name=D

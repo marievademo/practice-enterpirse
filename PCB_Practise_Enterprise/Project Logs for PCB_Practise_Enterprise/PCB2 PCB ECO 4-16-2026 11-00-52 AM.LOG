@@ -1,0 +1,5 @@
+Added Component: Designator=R7(RES_10KR)
+Added Pin To Net: NetName=GND Pin=Q2-S3
+Added Pin To Net: NetName=NetQ2_G1 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Member To Class: ClassName=randcomponenten Member=Component R7 RES_10KR
